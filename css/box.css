@@ -1,0 +1,29 @@
+.orange{
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    
+   
+}
+.white
+{
+    background-color: whitesmoke;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 110px;
+    
+ 
+
+}
+.green{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 210px;
+    top: 208px;
+    
+    
+}
+
